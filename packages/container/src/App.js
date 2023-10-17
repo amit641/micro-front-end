@@ -2,6 +2,7 @@ import React from "react";
 import MarketingApp from "./components/MarketingApp";
 
 function App() {
+  console.log("Container App!!!");
   return (
     <div>
       <h1>Hi Container App!!!</h1>
